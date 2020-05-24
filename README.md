@@ -4,11 +4,15 @@ _Here you can listen to any of the Vapor CDs released. They are located below._
 
 ## _Media Downloads_
 
-Here you can select what you would like to download. _**Note: Currently **_
+Here you can select what you would like to download.
 
-**###Vapor Vol. 1**
+### **Vapor Vol. 1**
 
-- ME
+- Download: [Vapor-Vol1.zip](https://github.com/Lennon-Incorporated/vapor-vol1/releases/download/final/Vapor-Vol1.zip) **(Size: 93.8MB)**
+
+### **Vapor Vol. 2**
+
+- Download: [Vapor-Vol2.zip](https://github.com/Lennon-Incorporated/vapor-vol2/releases/download/final/Vapor-Vol2.zip) **(Size: 106MB)**
 
 ```markdown
 Syntax highlighted code block
