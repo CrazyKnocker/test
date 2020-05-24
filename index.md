@@ -4,8 +4,6 @@ layout: home
 permalink: /media
 ---
 
-Here you can select what you would like to download.
-
 ### **Vapor Vol. 1**
 
 - _Download:_ [Vapor-Vol1.zip](https://github.com/Lennon-Incorporated/vapor-vol1/releases/download/final/Vapor-Vol1.zip) **(Size: 93.8MB)**
