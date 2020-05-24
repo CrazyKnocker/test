@@ -6,4 +6,4 @@ header_pages:
 - posts.md
 - contact.html
 
-footer: <i>Copyright 2020 Lennon Incorporated</i>
+footer: <i>Copyright 2020 Lennon Incorporated</i><br /><i>Ver. ----</i>
