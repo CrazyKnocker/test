@@ -1,7 +1,6 @@
 ---
 title: /home
 ---
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 # _Welcome to Lennon Incorporated!_
 
