@@ -1,7 +1,7 @@
 ---
 title: /home
 layout: home
-permalink: /home
+permalink: /
 ---
 
 # _Welcome to Lennon Incorporated!_
