@@ -14,5 +14,5 @@ This site is currently being tested under heavy monitoring. Please ignore any un
 ### _This site uses:_
 
 - The "jekyll-theme-console" for the layouts, and theme.
-  - _Visit the [Github](https://github.com/b2a3e8/jekyll-theme-console)
+  - _Visit the [Github](https://github.com/b2a3e8/jekyll-theme-console)_
 - Uses "Formspree" for Contact page.
