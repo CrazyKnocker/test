@@ -1,12 +1,14 @@
-## Welcome to Lennon Incorporated!
+# _Welcome to Lennon Incorporated!_
 
-Here you can listen to any of the Vapor CDs released. They are located on the [Media Downloads](https://lennon-incorporated.github.io/media-downloads/) page!
+_Here you can listen to any of the Vapor CDs released. They are located below._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## _Media Downloads_
 
-### Markdown
+Here you can select what you would like to download. _**Note: Currently **_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**###Vapor Vol. 1**
+
+- ME
 
 ```markdown
 Syntax highlighted code block
