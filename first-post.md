@@ -1,5 +1,7 @@
 ---
 layout: post
+date: 2020-05-24 10:11:00
+category: test-post
 permalink: /first-post
 ---
 # First Post!
