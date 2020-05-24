@@ -1,6 +1,6 @@
 ---
 title: /media
-layout: home
+layout: default
 permalink: /media-downloads
 ---
 
