@@ -1,14 +1,8 @@
 ---
-title: /home
+title: /media-downloads
 layout: home
-permalink: /home
+permalink: /media
 ---
-
-# _Welcome to Lennon Incorporated!_
-
-_Here you can listen to any of the Vapor CDs released. They are located within the index page._
-
-## _Media Downloads_
 
 Here you can select what you would like to download.
 
