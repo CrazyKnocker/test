@@ -2,10 +2,6 @@
 
 _Here you can listen to any of the Vapor CDs released. They are located within the index page._
 
-## _Info_
-This site is currently being tested under heavy monitoring. Please ignore any unfinished or missing components as they are being added. You may return to the original site.
-* Original Site: [Google Sites](https://sites.google.com/view/lennon-incorporated)
-
 ## _Media Downloads_
 
 Here you can select what you would like to download.
@@ -25,3 +21,7 @@ Here you can select what you would like to download.
 
 ### **Vapor Vol. 5**
 - _Youtube Video:_ [Youtube](https://www.youtube.com/watch?v=AqPy8HhBiJ4) **(Tracks in description)**
+
+## _Info_
+This site is currently being tested under heavy monitoring. Please ignore any unfinished or missing components as they are being added. You may return to the original site.
+* Original Site: [Google Sites](https://sites.google.com/view/lennon-incorporated)
