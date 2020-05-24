@@ -1,7 +1,7 @@
 ---
-title: /media-downloads
+title: /media
 layout: home
-permalink: /media
+permalink: /media-downloads
 ---
 
 ### **Vapor Vol. 1**
