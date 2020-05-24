@@ -19,7 +19,3 @@ permalink: /media
 
 ### **Vapor Vol. 5**
 - _Youtube Video:_ [Youtube](https://www.youtube.com/watch?v=AqPy8HhBiJ4) **(Tracks in description)**
-
-## _Info_
-This site is currently being tested under heavy monitoring. Please ignore any unfinished or missing components as they are being added. You may return to the original site.
-* Original Site: [Google Sites](https://sites.google.com/view/lennon-incorporated)
