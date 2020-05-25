@@ -1,6 +1,6 @@
 ---
 title: /site-comparison
-permalink: /posts/site-compare
+permalink: posts/site-compare
 layout: post
 ---
 _Here is a chart to display what is added so far compared to the **Old Site:**_
