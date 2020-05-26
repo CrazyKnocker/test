@@ -7,9 +7,7 @@ _Here is a chart to display what is added so far compared to the **Old Site:**_
 
 _Component/Feature_  | New Site | Old Site
 ------------  | ------------ | ------------
-Media Downloads  | _Yes_* | _Yes_
+Media Downloads  | _Yes_ | _Yes_
 Youtube Embedded Videos  | _Links Only_ | _Yes_
 LMLT Division  | **_TBD_** | _Yes_
 Contact Page  | _Yes_ | **_No_**
-
-***_Contains all downloads except the "Vaporwave Project Folder" (Being added in the future)_**
