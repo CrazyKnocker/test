@@ -4,6 +4,10 @@ layout: default
 permalink: /media-downloads
 ---
 
+## **The Vaporwave Project**
+
+- _Download:_ [MEGA Link](https://mega.nz/folder/KawwSK6S#9mzr-3gnkqTljWn2biVEgQ) **(Size: Over 2.5GB)**
+
 ### **Vapor Vol. 1**
 
 - _Download:_ [Vapor-Vol1.zip](https://github.com/Lennon-Incorporated/vapor-vol1/releases/download/final/Vapor-Vol1.zip) **(Size: 93.8MB)**
