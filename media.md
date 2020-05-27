@@ -6,7 +6,7 @@ permalink: /media-downloads
 
 ## **The Vaporwave Project**
 
-- _Download:_ [MEGA Link](https://mega.nz/folder/KawwSK6S#9mzr-3gnkqTljWn2biVEgQ) **(Size: Over 2.5GB)**
+- _Download:_ [Google Drive Link](https://drive.google.com/file/d/13BMCWa8CvZp_vOyF-6mPJ3EOwfxVwbgr/view?usp=sharing) **(Size: Over 2GB)**
 
 ### **Vapor Vol. 1**
 
