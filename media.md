@@ -7,7 +7,7 @@ permalink: /media-downloads
 ## **The Vaporwave Project**
 
 - _Download:_ [Google Drive Link](https://drive.google.com/file/d/13BMCWa8CvZp_vOyF-6mPJ3EOwfxVwbgr/view?usp=sharing) **(Size: Over 2GB)**
-**_[NOTE: DO NOT ADD "The Vaporwave Project" TO THE EXTRACTION FOLDER! Example: ~~C:\yourfolderhere\The Vaporwave Project~~] Instead use something like: C:\yourfolderhere\Lennon Incorporated\ (Don't worry it will make the "The Vaporwave Prokect" folder for you!)_**
+-- **_[NOTE: DO NOT ADD "The Vaporwave Project" TO THE EXTRACTION FOLDER! Example: ~~C:\yourfolderhere\The Vaporwave Project~~] Instead use something like: C:\yourfolderhere\Lennon Incorporated\ (Don't worry it will make the "The Vaporwave Prokect" folder for you!)_**
 
 ### **Vapor Vol. 1**
 
