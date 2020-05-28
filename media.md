@@ -8,8 +8,6 @@ permalink: /media-downloads
 
 - _Download:_ [Google Drive Link](https://drive.google.com/file/d/13BMCWa8CvZp_vOyF-6mPJ3EOwfxVwbgr/view?usp=sharing) **(Size: Over 2GB)**
 
-- **[NOTE: DO NOT ADD "The Vaporwave Project" TO THE EXTRACTION FOLDER! Example: ~~C:\yourfolderhere\The Vaporwave Project~~] Instead use something like: C:\yourfolderhere\Lennon Incorporated\ (Don't worry it will make the "The Vaporwave Prokect" folder for you!)**
-
 ### **Vapor Vol. 1**
 
 - _Download:_ [Vapor-Vol1.zip](https://github.com/Lennon-Incorporated/vapor-vol1/releases/download/final/Vapor-Vol1.zip) **(Size: 93.8MB)**
