@@ -12,11 +12,11 @@ permalink: /posts/beta2
 
 ## _New login screen!_
 **_This feature is currently temporary and will be removed soon._**
-![Login Screen Picture](https://github.com/Lennon-Incorporated/test/blob/master/pictures/login-screen1.png)
+![Login Screen Picture](https://github.com/Lennon-Incorporated/test/pictures/login-screen1.png)
 
 ## _The Vaporwave Project!_
 This is now available to download in the /media page!
-![Login Screen Picture](https://github.com/Lennon-Incorporated/test/blob/master/pictures/vaporwave-picture1.jpg)
+![Media Picture](https://github.com/Lennon-Incorporated/test/pictures/vaporwave-picture1.jpg)
 
 ------------------
 ### **_More Info_**
