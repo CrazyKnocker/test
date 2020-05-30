@@ -16,7 +16,7 @@ permalink: /posts/beta2
 
 ## _The Vaporwave Project!_
 This is now available to download in the /media page!
-![Media Picture](https://raw.githubusercontent.com/Lennon-Incorporated/test/master/pictures/vaporwave-picture2.jpg)
+![Media Picture](https://raw.githubusercontent.com/Lennon-Incorporated/test/master/pictures/vaporwave-picture3.jpg)
 
 ------------------
 ### **_More Info_**
