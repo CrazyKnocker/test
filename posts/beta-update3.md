@@ -1,5 +1,5 @@
 ---
-title: Beta 3 Update! _(Mostly Fixes)_
+title: Beta 3 Update!
 layout: post
 date: 2020-06-21
 category: patch-notes
