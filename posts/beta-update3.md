@@ -19,11 +19,11 @@ _The login screen was removed. (Note: This feature will not return.)_
 ------------------
 ### **_More Info_**
 ------------------
-_What's New?_
+_**What's New?**_
 
 - Removed Login Screen
 
-_Fixes_
+_**Fixes**_
 
 - Fixed the Contact page sending you to the 404 page when clicking "Return Home"
 - Fixed the 404 page sending you to a non-exsiting page when clicking "Return Home" (Results in infinite loop)
