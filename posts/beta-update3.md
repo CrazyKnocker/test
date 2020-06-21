@@ -22,7 +22,7 @@ _The login screen was removed. (Note: This feature will not return.)_
 _What's New?_
 
 - _Removed Login Screen_
-------------------
+
 _Fixes_
 
 - _Fixed the Contact page sending you to the 404 page when clicking "Return Home"_
