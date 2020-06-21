@@ -22,7 +22,7 @@ _What's New?_
 
 * _Removed Login Screen_
 
-#### _Fixes_
+_Fixes_
 
 - _Fixed the Contact page sending you to the 404 page when clicking "Return Home"_
 - _Fixed the 404 page sending you to a non-exsiting page when clicking "Return Home" (Results in infinite loop)_
