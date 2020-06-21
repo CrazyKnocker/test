@@ -21,6 +21,7 @@ _The login screen was removed. (Note: This feature will not return.)_
 ------------------
 _**What's New?**_
 
+- _All HTML Pages have a dark-mode theme!_
 - Removed Login Screen
 
 _**Fixes**_
