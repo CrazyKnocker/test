@@ -7,4 +7,4 @@ header_pages:
 - contact.html
 
 footer: <i>Site Ver. 1.0b2</i><br /><i>Copyright 2020 Lennon Incorporated</i>
-listen_for_clients_preferred_style: true
+listen_for_clients_preferred_style: false
