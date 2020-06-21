@@ -21,7 +21,7 @@ _The login screen was removed. (Note: This feature will not return.)_
 ------------------
 _What's New?_
 
-* _Removed Login Screen_
+- _Removed Login Screen_
 ------------------
 _Fixes_
 
