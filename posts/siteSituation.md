@@ -1,5 +1,5 @@
 ---
-title: An update on the current situation.
+title: /situationUpdate
 layout: post
 date: 2020-08-30
 category: other
@@ -14,8 +14,8 @@ This is due to me no longer focusing on the website. I now develop ROBLOX games,
 
 
 ## _Continue Supporting Me!_
-_Join my discord: [Core Studios Discord Server](https://discord.gg/TsGZkwu)_
-_Join my ROBLOX group: [Core Studios; My ROBLOX development group.](https://www.roblox.com/groups/7478562/C0RE-STUDI0S#!/about)_
+_Join my discord:_ [Core Studios Discord Server](https://discord.gg/TsGZkwu)
+_Join my ROBLOX group:_ [Core Studios; My ROBLOX development group.](https://www.roblox.com/groups/7478562/C0RE-STUDI0S#!/about)
 
 ------------------
 ### **_Thanks!_**
